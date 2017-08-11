@@ -4,7 +4,7 @@ A set of segmentation software borrowed from academic sources (citations are wit
 The set includes a Bipartite Graph Partitioning Approach, a Contour Detection method and a Chan-Vese Segmentation technique.
 				
 Contour_detection:
--BSR_code:
+BSR_code:
 		use example.m located in 'grouping' directory.
 		
 Chan-Vese Segmentation:
