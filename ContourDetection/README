@@ -1,5 +1,5 @@
 Example.m is main code. Dependencies are not provided to save space, although they can be found by researching the code from the 
-following publication:
+following publication which is provided on https://github.com/vrabaud/gPb:
 
 Contour Detection and
 Hierarchical Image Segmentation
