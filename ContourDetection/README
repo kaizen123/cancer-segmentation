@@ -1,1 +1,7 @@
-Contour_detection: BSR_code: use example.m located in 'grouping' directory.
+Example.m is main code. Dependencies are not provided to save space, although they can be found by researching the code from the 
+following publication:
+
+Contour Detection and
+Hierarchical Image Segmentation
+Pablo Arbel´aez, Member, IEEE, Michael Maire, Member, IEEE,
+Charless Fowlkes, Member, IEEE, and Jitendra Malik, Fellow, IEEE.
