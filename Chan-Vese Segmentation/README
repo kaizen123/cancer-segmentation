@@ -1,1 +1,2 @@
-
+Chan-Vese Segmentation:
+Main function is sfm_local_chanvese.m, dependencies are provided.
