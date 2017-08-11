@@ -1,18 +1,7 @@
 # cancer-segmentation
 A set of segmentation software borrowed from academic sources (citations are within code); some specifically designed for segmenting cancerous regions from microscopic tissue images.
  
-
-Bipartite_script:
-Contains all dependencies to work as well as three functions:
-
--createpatches.m:
-		Script used to split image into patches, segment patches and sew back segmented patches into orgininal image size.
-		
--demo_SAS_BSDS.m: 
-		Segmentation algorithm used in createpatches.m. Need to add Bipartite_script directory to path.
-		
--fullimageseg.m:
-		Used to segemnt full images which is needed to compare against patch based method segmentation.
+The set includes a Bipartite Graph Partitioning Approach, a Contour Detection method and a Chan-Vese Segmentation technique.
 				
 Contour_detection:
 -BSR_code:
